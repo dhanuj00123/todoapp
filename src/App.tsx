@@ -1,9 +1,14 @@
 import "./App.scss";
+import ToDoForm from "./components/todoForm/todoForm";
+import TodoList from "./components/todoList/todoList";
 
 function App() {
   return (
     <>
-      <div></div>
+      <div>
+        <ToDoForm />
+        <TodoList />
+      </div>
     </>
   );
 }
