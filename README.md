@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-simple todo App
+## Simple todo App using Recoil
